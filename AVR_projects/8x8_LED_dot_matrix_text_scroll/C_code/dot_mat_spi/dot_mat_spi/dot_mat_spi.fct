@@ -1,0 +1,6 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"dot_mat_spi.c" LINE:320
+ext_int0_isr DSTACK_USAGE:14 DSTACK_LEVEL:14 FILE:"dot_mat_spi.c" LINE:295
+disp_message DSTACK_USAGE:6 DSTACK_LEVEL:20 FILE:"dot_mat_spi.c" LINE:270
+push_char DSTACK_USAGE:6 DSTACK_LEVEL:26 FILE:"dot_mat_spi.c" LINE:258
+disp_buffer DSTACK_USAGE:6 DSTACK_LEVEL:32 FILE:"dot_mat_spi.c" LINE:232
+write_word DSTACK_USAGE:4 DSTACK_LEVEL:36 FILE:"dot_mat_spi.c" LINE:146
